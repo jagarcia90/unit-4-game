@@ -1,0 +1,68 @@
+/* h1{
+    color: greenyellow;
+    float: right;
+    margin: 10%;
+}
+body{
+    /* background-image: url("http://www.desktop-screens.com/data/out/107/3469783-star-wars-wallpapers.jpg");
+    background-image: url("http://www.desktop-screens.com/data/out/107/3469950-star-wars-wallpapers.jpg"); */
+    /* background-image: url("http://www.desktop-screens.com/data/out/107/3469540-star-wars-wallpapers.jpg"); */
+
+body{
+    /* background-image: url("https://orig00.deviantart.net/702e/f/2011/142/b/4/nature_trees_by_stardeht-d3gyqr0.jpg"); */
+    /* background-image: url("http://www.desktop-screens.com/data/out/107/3469594-star-wars-wallpapers.jpg"); */
+    /* background-image: url("https://vignette.wikia.nocookie.net/marveldatabase/images/f/f9/Infinity_Gauntlet.png/revision/latest?cb=20150501150335"); */
+    background-image: url("https://vignette.wikia.nocookie.net/mugen-souls/images/e/ec/Mugen_Souls_Z_outer_space_02.png/revision/latest?cb=20140325230211");
+}
+.jumbotron-fluid{
+    background-color: rgb(10, 39, 119);
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    padding:5px;
+    margin: 10px;
+    margin-left: 40px;
+    border: solid rgb(247, 182, 60);
+}
+#instructions{
+    color: green;
+    padding:5px;
+    margin: 1px;
+    margin-left: 20px;
+}
+
+#sum{
+    background-color: turquoise;
+    border: solid;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+}
+#total{
+    background-color: rgb(255, 236, 211);
+    border: solid;
+    width: 300px;
+    padding: 25px;
+    margin: 25px;
+}
+h1{
+    text-align: center;
+}
+#instructions{
+    text-align: center;
+    background-color: rgb(255, 236, 211);
+    border: solid  rgb(247, 182, 60);
+
+}
+#score{
+    background-color: rgb(255, 236, 211);
+    border: solid;
+}
+#random{
+    background-color: rgb(255, 236, 211);
+    border: solid;
+    padding: 25px;
+}
+#power, #soul, #time, #reality{
+    width: auto;
+    height: 100px;
+}
